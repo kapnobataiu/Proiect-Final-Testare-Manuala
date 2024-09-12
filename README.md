@@ -12,15 +12,15 @@ Platforma de comerț electronic eMAG este una dintre cele mai mari și populare 
 
 Story-urile de mai jos au fost create în Jira și descriu specificațiile funcționale ale modulelor „Favorite” și „Setări Siguranță” pentru care se realizează proiectul final.
 
-![Story Favorite](https://github.com/user-attachments/assets/85aa4abd-6246-4bcf-92c0-3cefeba4af30)
+![Story Security Settings](https://github.com/user-attachments/assets/7ce7d2f9-0411-43d0-8d6a-a1be1ceb9a65)
 
-![Story Security Settings](https://github.com/user-attachments/assets/e308c147-366e-4e80-9bbc-99621ad1cbb2)
+![Story Favorite](https://github.com/user-attachments/assets/526b2e37-9c17-43c6-bed1-23e2d694b99f)
 
 **Aici puteți găsi versiunea care a fost creată pentru acest proiect:**
 
 **v3.0 Launch of Enhanced Features in the "Favorites" and "Security Settings" Modules**
 
-![Release](https://github.com/user-attachments/assets/a007b8e4-ac38-41d4-a48b-660b72c6b9ce)
+![Release](https://github.com/user-attachments/assets/cf21fc7f-0423-4317-99d9-b2f19a7031b6)
 
 **Procesul de testare**
 
@@ -93,15 +93,15 @@ Criteriile de intrare definite în faza de planificare a testării au fost înde
 Etapa de monitorizare și control a fost realizată pentru a asigura că procesul de testare se desfășoară conform planului stabilit și pentru a identifica și aborda problemele care ar putea afecta calitatea și eficiența testării. Această etapă este esențială pentru menținerea transparenței în desfășurarea testelor, pentru ajustarea planurilor de testare în funcție de progres și pentru garantarea că toate cerințele și obiectivele de testare sunt îndeplinite. Monitorizarea ajută la detectarea devierilor de la planul inițial și permite echipei să ia măsuri corective la timp, minimizând impactul asupra proiectului.
 Modul de desfășurare a acestei etape a fost compus din monitorizarea progresului, raportarea defectelor, revizuirea rezultatelor testelor, actualizarea planului de testare și gestionarea riscurilor.
 
-![daily test execution](https://github.com/user-attachments/assets/5e52730c-b8ce-4de1-8278-326de9fd6e57)
+![daily test execution](https://github.com/user-attachments/assets/70f42fda-1e2d-4425-839c-b0b1a83e2d09)
 
 **1.3 Analiza testelor**
 
 Procesul de testare va fi executat pe baza cerințelor aplicației. 
 Următoarele condiții de testare au fost găsite:
 
-![Test conditions 1](https://github.com/user-attachments/assets/ef459b3a-3bc1-41da-8b08-5cfa3dda3409)
-![Test conditions 2](https://github.com/user-attachments/assets/5f09b640-b598-473d-8e21-028478dc3c4d)
+![Test conditions 1](https://github.com/user-attachments/assets/fb24ca95-f0a6-4451-a843-7a6208265ed4)
+![Test conditions 2](https://github.com/user-attachments/assets/57910050-f6af-4f5a-a080-98f8da3515ea)
 
 **1.4 Designul testelor**
 
@@ -142,7 +142,7 @@ Matricea de trasabilitate a fost generată și poate fi găsită [aici](https://
 
 Graficul de execuție a testelor a fost generat și poate fi găsit mai jos.
 
-![dashboard111](https://github.com/user-attachments/assets/265c58f5-645d-4cca-96cd-9e1a38eb4165)
+![dashboard111](https://github.com/user-attachments/assets/9d22edba-e5fb-42a9-a52a-06fe154ed4ce)
 
 Raportul final arată că un număr de 6 teste au eșuat dintr-un total de 18 teste.
 Au fost găsite un număr de 6 bug-uri, dintre care prioritatea este: 2 sunt de prioritate mare și 4 sunt de prioritate medie.
@@ -166,4 +166,3 @@ Comunicarea eficientă între echipele de dezvoltare și testare este esențial�
 Pentru a asigura o lansare de succes, este necesară testarea pe cât mai multe browsere, dispozitive și platforme diferite pentru a acoperi toate scenariile posibile.
 
 Prin urmare, lansarea în producție a funcționalităților „Favorite” și „Setări Siguranță” ar trebui să aibă loc numai după rezolvarea problemelor critice identificate și efectuarea unei testări suplimentare de regresie pentru a asigura stabilitatea și funcționalitatea completă a platformei.
-
