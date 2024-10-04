@@ -44,7 +44,6 @@ Planul identifică elementele care urmează să fie testate, funcționalitățil
 
 - Definirea și aprobarea cerințelor funcționale pentru „Favorite” și „Setări Siguranță”
 - Cerințele pentru funcționalitățile din modulele „Favorite” și „Setări Siguranță” sunt clar definite și aprobate de Product Owner și echipa de dezvoltare
-- Acces la mediul de testare: mediul de testare pentru modulele „Favorite” și „Setări Siguranță” sunt complet configurate și accesibile
 - Disponibilitatea specificațiilor de testare și a planului de testare: specificațiile și test case-urile pentru modulele „Favorite” și „Setări Siguranță” sunt documentate și aprobate. Planul de testare detaliază toate testele necesare pentru aceste module.
 - Finalizarea dezvoltării funcționalităților: funcționalitățile pentru modulele „Favorite” și „Setări Siguranță” au fost complet dezvoltate și sunt disponibile pentru testare
 - Disponibilitatea instrumentelor de testare: instrumentele de testare necesare pentru a verifica modulele „Favorite” și „Setări Siguranță” sunt configurate și funcționale
